@@ -34,8 +34,7 @@ Several of the steps ask you to be a bit creative, to come up with something tha
 
 8) JUNIOR, that jerkass the senior has rejected your PR.  What a jerkass.  Anyway, I guess we can either fix it or give up, adn giving up leads to unemployment.  So, let's fix it.  Fix it, push, and make sure the PR gets the update.  Honestly, I don't think I've ever done this, so I dunno how to do it.  That's pretty embarassing, tbh, so hopefully one of you will show me.
 
-9) Dear SENIOR, it's tempting to just jerk the junior around forever with change requests, but let's accept their change, and merge it.  This should hopefully trigger some automation in the Project, by the way, due to step (3), unless that automation already happened at some other step?
+9) Dear SENIOR, it's tempting to just jerk the junior around forever with change requests, but let's accept their change, and merge it.
 
-
-
+10) The SENIOR should submit, for the assignment, screenshots of the GitHub Issue and the GitHub PR. Maybe try using your browser to PrintToPDF the webpage?
 
